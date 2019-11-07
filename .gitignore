@@ -1,3 +1,7 @@
+# datasets
+datasets/*
+mini_datasets/*
+
 # General
 .DS_Store
 .AppleDouble
